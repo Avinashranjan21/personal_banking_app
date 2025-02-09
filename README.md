@@ -1,4 +1,4 @@
-# personal_banking_app
+# Personal Banking App
 
 ## 🚀 Project Status: **In Progress** 🏗️
 
